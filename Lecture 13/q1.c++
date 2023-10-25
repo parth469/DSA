@@ -1,3 +1,6 @@
+// * First and Last Position of an Element In Sorted Array 
+// ? Info -> if you find array elements match then store that index and find for next or for first
+
 #include <iostream>
 using namespace std;
 int findFirst(int array[], int size, int value)

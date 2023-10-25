@@ -1,3 +1,7 @@
+// * Find total no. of Occurrence
+// ? Info -> Find First and Last Position of an Element and use
+//! Last - first + 1 to find total number of Occurrence
+
 #include <iostream>
 using namespace std;
 int findFirst(int array[], int size, int value)
