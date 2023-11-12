@@ -17,3 +17,10 @@ Try To solve Question About binary search
 3. Peak in a Mountain Array [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 4.  Find Pivot in an Array [Link](https://leetcode.com/problems/find-pivot-index/) 
+
+# [Lec 14](https://github.com/parth469/DSA/tree/main/Lecture%2014) [Note](https://onedrive.live.com/view.aspx?resid=19150F6D4AFEE4AC%21626&id=documents&wd=target%28binary%20search.one%7CA5E98435-9A1F-4AE9-B28D-4F022005F971%2F%29onenote:https://d.docs.live.net/19150f6d4afee4ac/Documents/C%5eM%5eM/binary%20search.one#section-id={A5E98435-9A1F-4AE9-B28D-4F022005F971}&end)
+
+1.  Find Pivot in an Array
+2.  Search in a rotated & Sorted array [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Hint](https://onedrive.live.com/view.aspx?resid=19150F6D4AFEE4AC%21626&id=documents&wd=target%28binary%20search.one%7CA5E98435-9A1F-4AE9-B28D-4F022005F971%2FSearch%20in%20a%20rotated%20%26%20Sorted%20array%7CA60F7AD3-3882-46B6-AF98-57B8D02CBA47%2F%29onenote:https://d.docs.live.net/19150f6d4afee4ac/Documents/C%5eM%5eM/binary%20search.one#Search%20in%20a%20rotated%20%20Sorted%20array&section-id={A5E98435-9A1F-4AE9-B28D-4F022005F971}&page-id={A60F7AD3-3882-46B6-AF98-57B8D02CBA47}&object-id={FAC226BE-9A41-495A-868F-277F4BB4881E}&10)
+
+3. Square Root of an Integer  [Link](https://leetcode.com/problems/sqrtx/) [Hint](https://onedrive.live.com/view.aspx?resid=19150F6D4AFEE4AC%21626&id=documents&wd=target%28binary%20search.one%7CA5E98435-9A1F-4AE9-B28D-4F022005F971%2FFind%20Sqroot%7CBF592D4B-A38A-40FB-A6AD-C9F706AE1834%2F%29onenote:https://d.docs.live.net/19150f6d4afee4ac/Documents/C%5eM%5eM/binary%20search.one#Find%20Sqroot&section-id={A5E98435-9A1F-4AE9-B28D-4F022005F971}&page-id={BF592D4B-A38A-40FB-A6AD-C9F706AE1834}&object-id={6C211358-785B-4A2D-A2FA-7A4EC1A3172D}&10)
