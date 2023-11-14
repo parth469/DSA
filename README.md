@@ -29,6 +29,5 @@ Try To solve Question About binary search
 
 1. Book Allocation  [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) [Hint](https://1drv.ms/u/s!Aqzk_kptDxUZhHI17VSwJlmFInvp?wd=target%28binary%20search.one%7CA5E98435-9A1F-4AE9-B28D-4F022005F971%2FBook%20allocation%7CCAE4DC7A-6667-4C82-BA95-737693A2C84B%2F%29onenote:https://d.docs.live.net/19150f6d4afee4ac/Documents/C%5eM%5eM/binary%20search.one#Book%20allocation&section-id={A5E98435-9A1F-4AE9-B28D-4F022005F971}&page-id={CAE4DC7A-6667-4C82-BA95-737693A2C84B}&object-id={45603F89-17CD-429D-A4C7-15C5C6CABCF9}&10)
 
-# [Lec 16](https://github.com/parth469/DSA/tree/main/Lecture%2016) [Note] (https://onedrive.live.com/redir?resid=19150F6D4AFEE4AC%21626&authkey=%21ADXtVLAmWYUie-k&page=View&wd=target%28sorting.one%7C%2F%29&wdorigin=717)
-
+# [Lec 16](https://github.com/parth469/DSA/tree/main/Lecture%2016) [Note](https://1drv.ms/o/s!Aqzk_kptDxUZhHI17VSwJlmFInvp?e=nmfIm6)
 1.  Selection Sort [Link](https://www.codingninjas.com/studio/problems/selection-sort_981162) [Hint](https://onedrive.live.com/redir?resid=19150F6D4AFEE4AC%21626&authkey=%21ADXtVLAmWYUie-k&page=View&wd=target%28sorting.one%7C%2FSection%20sort%7C7744b08b-3fab-40c3-a90e-4a4b143d260f%2F%29&wdorigin=703)
