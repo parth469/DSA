@@ -31,3 +31,6 @@ Try To solve Question About binary search
 
 # [Lec 16](https://github.com/parth469/DSA/tree/main/Lecture%2016) [Note](https://1drv.ms/o/s!Aqzk_kptDxUZhHI17VSwJlmFInvp?e=nmfIm6)
 1.  Selection Sort [Link](https://www.codingninjas.com/studio/problems/selection-sort_981162) [Hint](https://onedrive.live.com/redir?resid=19150F6D4AFEE4AC%21626&authkey=%21ADXtVLAmWYUie-k&page=View&wd=target%28sorting.one%7C%2FSection%20sort%7C7744b08b-3fab-40c3-a90e-4a4b143d260f%2F%29&wdorigin=703)
+
+# [Lec 17](https://github.com/parth469/DSA/tree/main/Lecture%2017) [Note](https://1drv.ms/o/s!Aqzk_kptDxUZhHI17VSwJlmFInvp?e=nmfIm6)
+1.  Bubble Sort [Link](https://www.codingninjas.com/studio/problems/bubble-sort_980524) [Hint](https://www.productplan.com/uploads/bubble-sort-1024x683-2.png)
